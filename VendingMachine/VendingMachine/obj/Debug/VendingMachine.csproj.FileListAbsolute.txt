@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\AnyThingElse\PB VS C#\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\AnyThingElse\PB VS C#\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\AnyThingElse\PB VS C#\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\AnyThingElse\PB VS C#\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
