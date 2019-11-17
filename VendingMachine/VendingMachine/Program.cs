@@ -135,7 +135,7 @@ namespace VendingMachine
                     } while (true);
                     if (indexitem >= 0)
                     {
-                        currentcurrency -= int.Parse(items[indexitem][2]);
+                        currentcurrency -= float.Parse(items[indexitem][2]);
                         Console.WriteLine(items[indexitem][0] + "! I choose you.");
                         break;
                     }
